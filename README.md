@@ -125,7 +125,7 @@ export default Calculator;
 ```
 # App.css
 ```
-* {
+{
   box-sizing: border-box;
   font-family: sans-serif;
 }
